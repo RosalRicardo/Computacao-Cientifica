@@ -185,7 +185,7 @@ md"""
 md"""
 O módulo da biblioteca padrão de datas tem dois tipos para trabalhar com datas:
 
-* `Data`: representando o tempo em **dias**.
+* `Date`: representando o tempo em **dias**.
 * `DateTime`: representando o tempo na precisão de **milissegundos**.
 
 Podemos construir `Date` e `DateTime` com o construtor padrão, especificando um número inteiro para representar ano, mês, dia, horas e assim por diante:
